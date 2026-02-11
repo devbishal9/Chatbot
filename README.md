@@ -54,12 +54,12 @@ GroqAPIKey=YOUR_GROQ_API_KEY
 Clone the repository:
 
 https://github.com/devbishal9/Chatbot.git<br>
-```bash
+```
 cd Chatbot
-
+```
 
 Install dependencies:
-```bash
+
 pip install groq python-dotenv
 
 
