@@ -59,14 +59,14 @@ cd Chatbot
 ```
 
 Install dependencies:
-
+```
 pip install groq python-dotenv
-
+```
 
 Run the assistant:
-
+```
 python Chatbot.py
-
+```
 # 🚀 Usage
 
 Start the program and enter your question:
