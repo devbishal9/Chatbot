@@ -35,11 +35,11 @@ JSON
 
 # 📂 Project Structure
 .
-├── Data/
-│   └── ChatLog.json
-├── .env
-├── main.py
-└── README.md
+├── Data/<br>
+│   └── ChatLog.json<br>
+├── .env<br>
+├── main.py<br>
+└── README.md<br>
 
 # 🔐 Environment Setup
 
